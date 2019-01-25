@@ -1,0 +1,1 @@
+# Navie-Softmax_Skipgram
